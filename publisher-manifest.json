@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f0f62edd4922add0264402f7",
+  "owner": "kbxmsy",
+  "repo": "page-8e7294378771f96aa21c0279",
+  "title": "clashmi下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e7294378771f96aa21c0279",
+      "a": "clashmi下载",
+      "b": "",
+      "entity": "clashmi下载",
+      "brand": "clashmi下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9a38e39dce79666f7b1edc3da984317fb6bb24d388f7eddba4af49ea086656ea",
+      "content": {
+        "keyword1": "clashmi下载",
+        "keyword2": "",
+        "primary_entity": "clashmi下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi下载提供专业机场订阅服务与VPN加速器客户端下载，覆盖高速流量套餐与便捷配置流程，让您畅享稳定网络。",
+          "AI_DESCRIPTION": "clashmi下载提供专业机场订阅服务与VPN加速器客户端下载，覆盖高速流量套餐与便捷配置流程，让您畅享稳定网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deep-blue: #0A2540;\n            --cyan: #00D4FF;\n            --light-blue: #1E3A5F;\n            --white: #FFFFFF;\n            --gray: #B0B0B0;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: 'Segoe UI', system-ui, sans-serif;\n            background: var(--deep-blue);\n            color: var(--white);\n            line-height: 1.6;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        h1 { font-size: 2.8rem; text-align: center; margin: 40px 0 20px; color: var(--cyan); }\n        h2 { font-size: 1.8rem; margin: 50px 0 20px; color: var(--cyan); border-bottom: 2px solid var(--cyan); padding-bottom: 10px; }\n        h3 { font-size: 1.4rem; margin: 30px 0 15px; color: var(--white); }\n        main { padding: 40px 0; }\n        .intro, .scenarios, .plans, .config { background: var(--light-blue); padding: 40px; border-radius: 12px; margin-bottom: 40px; }\n        .config-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }\n        @media (max-width: 768px) {\n            .config-grid { grid-template-columns: 1fr; }\n            h1 { font-size: 2rem; }\n        }\n        .plan-card {\n            background: #112B4A; border-radius: 12px; padding: 25px; margin-bottom: 20px; border: 1px solid var(--cyan);\n        }\n        .plan-card.featured { border-color: var(--cyan); box-shadow: 0 0 20px rgba(0,212,255,0.3); }\n        .plan-card h3 { color: var(--cyan); font-size: 1.6rem; }\n        .plan-card .price { font-size: 1.8rem; font-weight: bold; margin: 15px 0; }\n        .plan-card .annual { color: var(--gray); }\n        .faq { margin-bottom: 15px; }\n        details { background: var(--light-blue); border-radius: 8px; padding: 15px; margin-bottom: 15px; }\n        summary { font-weight: bold; cursor: pointer; font-size: 1.3rem; }\n        summary::-webkit-details-marker { display: none; }\n        a { color: var(--cyan); text-decoration: none; }\n        a:hover { text-decoration: underline; }\n        .section { margin-bottom: 60px; }\n    </style>\n\n\n    <main>\n        <h1>clashmi下载</h1>\n        \n        <div class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>clashmi下载是专注机场订阅与VPN加速器客户端服务的专业平台，致力于为用户提供高速稳定网络加速解决方案。我们通过深度优化的客户端，提供多种流量套餐和专属节点，帮助您轻松实现无障碍访问与隐私保护。</p>\n        </div>\n        \n        <div class=\"scenarios\">\n            <h2>使用场景</h2>\n            <p>clashmi适用于多种网络需求场景，包括：</p>\n            <ul>\n                <li>流媒体平台解锁（如Netflix、Disney+、YouTube等）</li>\n                <li>全球游戏加速与低延迟连接</li>\n                <li>隐私保护与数据加密传输</li>\n                <li>远程办公与企业网络优化</li>\n                <li>日常上网冲浪与内容访问加速</li>\n            </ul>\n        </div>\n        \n        <div class=\"plans\">\n            <h2>流量套餐</h2>\n            <div class=\"plan-card\">\n                <h3>基础版</h3>\n                <div class=\"price\">¥15/月</div>\n                <div class=\"annual\">按年付仅需 ¥150/年</div>\n                <p>每月 100GB 极速流量 | 支持 3 台设备同时在线 | 解锁基础流媒体 | 普通线路节点池</p>\n            </div>\n            <div class=\"plan-card featured\">\n                <h3>旗舰版</h3>\n                <div class=\"price\">¥35/月</div>\n                <div class=\"annual\">按年付仅需 ¥350/年</div>\n                <p>每月 300GB 极速流量 | 支持 5 台设备同时在线 | 全节点原生流媒体解锁 | IPLC 专线游戏加速优化 | 7x24 优先工单支持</p>\n            </div>\n            <div class=\"plan-card\">\n                <h3>团队版</h3>\n                <div class=\"price\">¥85/月</div>\n                <div class=\"annual\">按年付仅需 ¥850/年</div>\n                <p>每月 1000GB 极速流量 | 支持 20 台设备同时在线 | VIP 专属高带宽节点 | 支持企业定制路由 | 专属客户经理服务</p>\n            </div>\n        </div>\n        \n        <div class=\"config\">\n            <h2>配置流程</h2>\n            <div class=\"config-grid\">\n                <div>\n                    <h3>步骤1：下载客户端</h3>\n                    <p>访问官网下载最新版Clash MI客户端，支持Windows、macOS、iOS、Android多平台。</p>\n                </div>\n                <div>\n                    <h3>步骤2：导入订阅链接</h3>\n                    <p>打开客户端导入您的机场订阅地址，系统自动解析节点列表。</p>\n                </div>\n                <div>\n                    <h3>步骤3：选择节点</h3>\n                    <p>根据需求选择高速节点，配置代理规则与分流策略。</p>\n                </div>\n                <div>\n                    <h3>步骤4：连接测试</h3>\n                    <p>使用内置测试工具验证延迟与速度，完成最终优化。</p>\n                </div>\n            </div>\n        </div>\n        \n        <div class=\"faq\">\n            <h2>常见问题</h2>\n            <details class=\"faq\">\n                <summary>如何下载clashmi客户端？</summary>\n                <p>请访问官网下载页面，选择对应操作系统版本进行安装，安装后直接运行客户端即可使用。</p>\n            </details>\n            <details class=\"faq\">\n                <summary>clashmi支持哪些设备？</summary>\n                <p>支持Windows、macOS、iOS、Android四大系统平台，均可通过官网下载最新版本。</p>\n            </details>\n            <details class=\"faq\">\n                <summary>基础版与旗舰版区别是什么？</summary>\n                <p>旗舰版流量上限更高，支持更多设备，并提供IPLC专线与优先工单服务。</p>\n            </details>\n            <details class=\"faq\">\n                <summary>如何订阅机场服务？</summary>\n                <p>选择套餐后，官网会提供专属订阅链接，直接在客户端中导入即可。</p>\n            </details>\n            <details class=\"faq\">\n                <summary>配置流程复杂吗？</summary>\n                <p>我们的客户端内置向导，简单导入链接后即可一键连接，无需复杂设置。</p>\n            </details>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "af5c08dc48bf921d2c8578651699b7349a71bbb1a4f1e85e495491500f3aa07f",
+          "seo": {
+            "title": "clashmi下载 - 机场订阅 VPN 加速器 客户端下载",
+            "keywords": "clashmi, 机场订阅, VPN加速器, 客户端下载, Clash MI",
+            "description": "clashmi下载提供专业机场订阅服务与VPN加速器客户端下载，覆盖高速流量套餐与便捷配置流程，让您畅享稳定网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hfsryhsm8.cn",
+    "host": "p-9401196ff4.hfsryhsm8.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "bac679e54fb62779649d3299fd103e3c7160dee38e85e0e53b5e013dcde36323",
+    "sitemap.xml": "a19209396c2ab8e6b2aa8caa5105b28bf8c0607b5984ebf01d848604fdbb3a7d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a941101603c3ca77e0ccadb755e482cabbfa3fbfe619aaa06662c39672c37a73",
+    "robots.txt": "bf9b7f761f06c7f18d1f4a47f9625a01c343c44d04abab05e8728aa9ffe64684",
+    "23a37d6116fa3f4a5759a0e41468403e.txt": "4b8c40aebb9aaf0f48a1957b8eb019471ec7250212a97d49199b784daa6202aa"
+  },
+  "revision": "da6c359a300533fdc8c910599a16dc4b0c9a6c5986dcaf8f3a7ced0616a40233"
+}
